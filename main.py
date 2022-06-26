@@ -12,7 +12,9 @@ def summa(a, b):
 
 out()
 
-total = summa(23, 34)
+a = 34
+b = 445
+total = summa(a, b)
 
 print(total)
 print('pull')
