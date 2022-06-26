@@ -7,4 +7,11 @@ def out():
     print(math.pi)
     return test
 
+def summa(a, b):
+    return a + b
+
 out()
+
+total = summa(23, 34)
+
+print(total)
