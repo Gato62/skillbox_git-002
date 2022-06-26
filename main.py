@@ -15,3 +15,4 @@ out()
 total = summa(23, 34)
 
 print(total)
+print('pull')
