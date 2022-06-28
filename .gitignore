@@ -1,5 +1,5 @@
 /shelf/
 /workspace.xml
-/logs/*.log
+/logs/
 /.idea/
 /__pycache__/
