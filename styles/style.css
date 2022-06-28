@@ -1,5 +1,10 @@
-h1 {
+body {
+    background-color: rgb(178, 119, 233);
+}
+
+#test {
+    font-size: 65pt;
     text-align: center;
-    text-color: rgb(255, 255, 255);
-    text-shadow: 1px 1px .5px rgb(61, 61, 61);
+    color: rgb(226, 226, 226);
+    text-shadow: 2px 2px 8px rgb(0, 0, 0, .7);
 }
