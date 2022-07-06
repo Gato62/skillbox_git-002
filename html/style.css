@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(213, 179, 245);
+}
+
+#test {
+    font-size: 65pt;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 8px rgb(0, 0, 0, .7);
+}
+
+#alex {
+    font-size: 85pt;
+    text-align: center;
+    color: rgb(53, 166, 200);
+    text-shadow: 2px 2px 8px rgb(0, 0, 0, .7);
+}
